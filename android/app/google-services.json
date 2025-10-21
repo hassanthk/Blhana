@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091412767067",
+    "project_id": "blhana-18612",
+    "storage_bucket": "blhana-18612.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091412767067:android:714c274a6433745dd5ea7e",
+        "android_client_info": {
+          "package_name": "com.example.blhana_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYPm7laVEhsv__WAU4yjtauyI4ZVNnSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
